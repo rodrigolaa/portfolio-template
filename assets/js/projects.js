@@ -1,7 +1,7 @@
 export default [
   {
-    text: 'Pizza Delivery API, his project has the porpuse to build hands-on activities with FastAPI framework to understand the main points to develop custom API.',
-    image: 'project-1.jpg',
+    text: 'Pizza Delivery API: This project has the porpuse to create an real api project with Fast Api that allow us to understand and put in practice:.',
+    image: 'python-fast-api-dalle.png',
     url: 'https://github.com/rodrigolaa/FastAPI_Practice',
   },
   {
