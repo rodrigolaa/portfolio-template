@@ -1,7 +1,8 @@
 export default [
   {
-    text: 'Describe this project, whas it a college activity or an acctual job? What did you do ? link the website bellow if you can.',
+    text: 'Pizza Delivery API, his project has the porpuse to build hands-on activities with FastAPI framework to understand the main points to develop custom API.',
     image: 'project-1.jpg',
+    url: 'https://github.com/rodrigolaa/FastAPI_Practice',
   },
   {
     text: 'text 1 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus facere aspernatur pariatur quasi totam esse dolores tempore ipsum facilis a?',
